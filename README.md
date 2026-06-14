@@ -220,6 +220,3 @@ Desenvolvedor Full Stack | Node.js · React · JavaScript · Prisma
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença **ISC**.
